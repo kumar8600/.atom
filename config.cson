@@ -1,0 +1,20 @@
+'global':
+  'metrics':
+    'userId': 'f971100b96b74fc264f5623e4d26f707785ff3ae'
+  'exception-reporting':
+    'userId': 'bcac51a2-10fd-b1a0-b25c-4a628edd817a'
+  'welcome':
+    'showOnStartup': false
+  'core':
+    'themes': [
+      'atom-light-ui'
+      'atom-light-syntax'
+    ]
+  'emacs-mode':
+    'hideTabs': false
+    'hideSidebar': false
+    'useEmacsCursor': true
+    'useFuzzyFileFinder': false
+    'useFuzzyBufferFinder': false
+  'editor':
+    'invisibles': {}
